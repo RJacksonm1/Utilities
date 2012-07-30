@@ -1,0 +1,1 @@
+"../vtfVersion.py" 4 minimap_hero_sheet.vtf
